@@ -2006,13 +2006,17 @@
       <change afterPath="$PROJECT_DIR$/jar/jstl.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/jar/ojdbc6.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/jar/standard.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2046,7 +2050,8 @@
       <workItem from="1666943164188" duration="43000" />
       <workItem from="1667196834330" duration="731000" />
       <workItem from="1667197988648" duration="247000" />
-      <workItem from="1667198606697" duration="220000" />
+      <workItem from="1667198606697" duration="890000" />
+      <workItem from="1667200717801" duration="500000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1667198202096</created>
